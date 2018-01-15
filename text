@@ -1,4 +1,8 @@
 original branch
 --originalA++
 --originalB++
---originalC++
+   --branchA
+   --branchA
+   --branchA
+      --branchA
+	  --branchA
